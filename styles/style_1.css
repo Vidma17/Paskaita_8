@@ -1,0 +1,11 @@
+body {
+    font-family: arial;
+    background-color: cornflowerblue;
+    margin: 50px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 24px;
+    padding: 10px 0;
+}
